@@ -2,7 +2,6 @@
 __pycache__/
 *.py[cod]
 *$py.class
-*.mp4
 *.avi
 pretrained_fruit_model.pt
 trained_fruit_model.pt
