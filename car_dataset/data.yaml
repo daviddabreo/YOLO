@@ -1,0 +1,7 @@
+path: D:/VsCode/Computer_Vision/CNN.YOLO/car_dataset/
+test: images/test/
+train: images/train/
+val: images/test/
+nc: 1
+names:
+- car

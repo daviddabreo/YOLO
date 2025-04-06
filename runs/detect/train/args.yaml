@@ -1,11 +1,11 @@
 task: detect
 mode: train
 model: yolov8s.pt
-data: C:/Users/Sid/Documents/computer_vision/CNN.YOLO/datasets/vehicle_dataset/data.yaml
+data: car_dataset/data.yaml
 epochs: 50
 time: null
 patience: 100
-batch: 16
+batch: 100
 imgsz: 640
 save: true
 save_period: -1
