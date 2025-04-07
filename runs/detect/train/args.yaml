@@ -1,8 +1,8 @@
 task: detect
 mode: train
-model: yolov8s.pt
+model: runs/detect/cars_0_1_transfer/weights/best.pt
 data: car_dataset/data.yaml
-epochs: 50
+epochs: 16
 time: null
 patience: 100
 batch: 100

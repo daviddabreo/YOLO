@@ -1,0 +1,32 @@
+		Line high	Line mid	Line low	
+Video 1	cars_0_scratch	1	10	58	scratch - 1.5hrs
+	cars_1_scratch	84	93	95	freeze - 0.048 hrs
+	cars_0_1_transfer	71	88	89	
+	cars_0_1_transfer_freeze	46	86	87	
+					
+Video 2	cars_0_scratch	0	0	0	
+	cars_1_scratch	21	22	22	
+	cars_0_1_transfer	17	18	19	
+	cars_0_1_transfer_freeze	24	24	24	
+					
+Video 3	cars_0_scratch	0	0	1	
+	cars_1_scratch	27	31	48	
+	cars_0_1_transfer	26	28	33	
+	cars_0_1_transfer_freeze	40	44	46	
+					
+Video 4	cars_0_scratch	2	27	43	
+	cars_1_scratch	23	39	50	
+	cars_0_1_transfer	17	35	49	
+	cars_0_1_transfer_freeze	24	36	48	
+					
+Video 5	cars_0_scratch	0	7	12	
+	cars_1_scratch	22	37	45	
+	cars_0_1_transfer	5	27	47	
+	cars_0_1_transfer_freeze	28	38	55	
+					
+					
+	map 50	map 50 - 95	P	R	
+cars_0_scratch	0.948	0.873	0.945	0.9	
+cars_1_scratch	0.924	0.769	0.828	0.902	
+cars_0_1_transfer	0.91	0.762	0.827	0.849	
+cars_0_1_transfer_freeze	0.891	0.724	0.821	0.849	
